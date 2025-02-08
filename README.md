@@ -20,15 +20,7 @@ cd fast-food-website
 npm install
 ```
 
-### **🔹 Cấu hình `.env`**
-Tạo file `.env` trong thư mục gốc và thêm:
-```env
-GOOGLE_CLIENT_ID=803563391879-011pu6ma02dc2ce2jd3sbaup51svdqgg.apps.googleusercontent.com
-GOOGLE_CLIENT_SECRET=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
-GOOGLE_CALLBACK_URL=http://localhost:3000/customer/login/google/callback
-ACCESS_TOKEN_CUSTOMER_SECRET=abc123
-SECRET_KEY=abc123
-```
+
 
 ### **🔹 Chạy dự án**
 ```bash
